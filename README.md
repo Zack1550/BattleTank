@@ -1,2 +1,3 @@
 # BattleTank
-Udemy Course
+An open-world, simple terrain, tank battling simulator.
+
